@@ -21,8 +21,12 @@ namespace Exercicio3.Model
 
         public override void LvlUp()
         {
-            Console.WriteLine("Parabéns! O seu mago subiu de nível e ganhou mais pontos de inteligência e mana!");
+            Level += 1;
+            Xp += 20;
+            Console.WriteLine($"Parabéns! O seu mago subiu para o nível {Level} e ganhou mais pontos de inteligência e mana!");
             Console.WriteLine($"Seus atributos de mana subiram de {Mana} -> {Mana += 30} e Inteligencia subiu de {Inteligencia} -> {Inteligencia += 40}");
+            Console.WriteLine($"Quantidade de XP: " + Xp);
+            Console.WriteLine("----------------------------------------------------------------------");
         }
     }    
       

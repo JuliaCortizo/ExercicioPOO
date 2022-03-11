@@ -14,8 +14,12 @@ namespace Exercicio3.Model
 
         public override void LvlUp()
         {
-             Console.WriteLine("Parabéns! O seu guerreiro subiu de nível e ganhou mais pontos de vida e força!");
+            Level += 1;
+            Xp += 20;
+            Console.WriteLine($"Parabéns! O seu guerreiro subiu para o nível {Level} e ganhou mais pontos de vida e força!");
             Console.WriteLine($"Seus atributos de vida subiram de {Vida} -> {Vida += 30} e Força subiu de {Forca} -> {Forca += 40}");
+            Console.WriteLine($"Quantidade de XP: " + Xp);
+            Console.WriteLine("----------------------------------------------------------------------");
         }
         
         public override double attack(){

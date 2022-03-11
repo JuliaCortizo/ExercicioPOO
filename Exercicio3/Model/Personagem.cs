@@ -22,6 +22,9 @@ namespace Exercicio3.Model
         public int Forca { get => forca; set => forca = value; }
         public int Level { get => level; set => level = value; }
 
+        public Personagem(){
+
+        }
 
         public Personagem(string nomeP, int vidaP, int manaP, float xpP, int inteligenciaP, int forcaP, int levelP){
             this.QtdPersonagem += 1; 
@@ -36,7 +39,8 @@ namespace Exercicio3.Model
         }
 
         public virtual void LvlUp(){
-
+            Level += 1;
+            Xp += 20;
         }
         public virtual double attack(){
             Random aleatorio = new Random();
