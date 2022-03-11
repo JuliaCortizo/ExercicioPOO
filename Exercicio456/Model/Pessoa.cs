@@ -48,7 +48,7 @@ namespace Exercicio456.Model
             Pessoas.RemoveAll(p => p.Idade < 18);   
             Console.WriteLine("Quantidade total de pessoas na lista antes da exclusão: " + qtdPessoasLista + "\n"); 
             Console.WriteLine("Quantidade de pessoas com idade maior ou igual a 18 anos: " + Pessoas.Count.ToString() 
-            + " tais quais: " + "\n"); 
+            + " tais quais: "); 
             foreach(Pessoa p in Pessoas){
                 Console.WriteLine(p.Nome);
             } 

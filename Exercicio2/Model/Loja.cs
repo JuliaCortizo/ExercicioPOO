@@ -24,7 +24,6 @@ namespace Exercicio2.Model
 
         double totalItens = 0;
 
-        // Sobrescrever o método toString() de livros e videogames para o formato de saída
         public void ListaLivros(){
             string retorno = "";
             if(livros.Count == 0){

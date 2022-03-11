@@ -24,9 +24,6 @@ namespace prjExercicios.Model
         public int Velocidade { get => velocidade; set => velocidade = value; }
         public double Preco { get => preco; set => preco = value; }
 
-        // Métodos do veículo
-
-        //Este método adiciona +20 no atributo velocidade
         public void acelerar(){
             if(isLigado == true){
                 velocidade += 20;
@@ -36,8 +33,6 @@ namespace prjExercicios.Model
             }   
         }
 
-        //Este método verifica se a quantidade de litros que a pessoa quer abastecer 
-        //vai ficar dentro do limite que o tanque suporta
         public void abastecer(int combustivel){
             int limiteTanque = 60;
 
@@ -49,7 +44,6 @@ namespace prjExercicios.Model
             }
         }
 
-        //Este método reduz 20 pontos da velocidade
         public void frear(){
             velocidade -= 20;   
             Console.WriteLine($"A velocidade atual do seu veículo é: {velocidade} km/h");   

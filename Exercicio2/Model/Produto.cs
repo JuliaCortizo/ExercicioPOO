@@ -9,12 +9,10 @@ namespace Exercicio2.Model
 
         private int qtd;
 
-        //Propriedades 
         public string Nome { get => nome; set => nome = value; }
         public double Preco { get => preco; set => preco = value; }
         public int Qtd { get => qtd; set => qtd = value; }
 
-        //Construtor verificar se tem que inicializar aqui, pq não pode instanciar
         public Produto(string nomeProd, double precoProd, int qtdProd){
             
         }
