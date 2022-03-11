@@ -1,0 +1,16 @@
+C:\Users\corti\Desktop\Exercicios semana 1\Exercicio456\bin\Debug\net5.0\Exercicio456.exe
+C:\Users\corti\Desktop\Exercicios semana 1\Exercicio456\bin\Debug\net5.0\Exercicio456.deps.json
+C:\Users\corti\Desktop\Exercicios semana 1\Exercicio456\bin\Debug\net5.0\Exercicio456.runtimeconfig.json
+C:\Users\corti\Desktop\Exercicios semana 1\Exercicio456\bin\Debug\net5.0\Exercicio456.runtimeconfig.dev.json
+C:\Users\corti\Desktop\Exercicios semana 1\Exercicio456\bin\Debug\net5.0\Exercicio456.dll
+C:\Users\corti\Desktop\Exercicios semana 1\Exercicio456\bin\Debug\net5.0\ref\Exercicio456.dll
+C:\Users\corti\Desktop\Exercicios semana 1\Exercicio456\bin\Debug\net5.0\Exercicio456.pdb
+C:\Users\corti\Desktop\Exercicios semana 1\Exercicio456\obj\Debug\net5.0\Exercicio456.csproj.AssemblyReference.cache
+C:\Users\corti\Desktop\Exercicios semana 1\Exercicio456\obj\Debug\net5.0\Exercicio456.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corti\Desktop\Exercicios semana 1\Exercicio456\obj\Debug\net5.0\Exercicio456.AssemblyInfoInputs.cache
+C:\Users\corti\Desktop\Exercicios semana 1\Exercicio456\obj\Debug\net5.0\Exercicio456.AssemblyInfo.cs
+C:\Users\corti\Desktop\Exercicios semana 1\Exercicio456\obj\Debug\net5.0\Exercicio456.csproj.CoreCompileInputs.cache
+C:\Users\corti\Desktop\Exercicios semana 1\Exercicio456\obj\Debug\net5.0\Exercicio456.dll
+C:\Users\corti\Desktop\Exercicios semana 1\Exercicio456\obj\Debug\net5.0\ref\Exercicio456.dll
+C:\Users\corti\Desktop\Exercicios semana 1\Exercicio456\obj\Debug\net5.0\Exercicio456.pdb
+C:\Users\corti\Desktop\Exercicios semana 1\Exercicio456\obj\Debug\net5.0\Exercicio456.genruntimeconfig.cache

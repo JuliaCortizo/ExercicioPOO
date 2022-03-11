@@ -1,0 +1,16 @@
+C:\Users\corti\Desktop\prjExercicios\bin\Debug\net5.0\prjExercicios.exe
+C:\Users\corti\Desktop\prjExercicios\bin\Debug\net5.0\prjExercicios.deps.json
+C:\Users\corti\Desktop\prjExercicios\bin\Debug\net5.0\prjExercicios.runtimeconfig.json
+C:\Users\corti\Desktop\prjExercicios\bin\Debug\net5.0\prjExercicios.runtimeconfig.dev.json
+C:\Users\corti\Desktop\prjExercicios\bin\Debug\net5.0\prjExercicios.dll
+C:\Users\corti\Desktop\prjExercicios\bin\Debug\net5.0\ref\prjExercicios.dll
+C:\Users\corti\Desktop\prjExercicios\bin\Debug\net5.0\prjExercicios.pdb
+C:\Users\corti\Desktop\prjExercicios\obj\Debug\net5.0\prjExercicios.csproj.AssemblyReference.cache
+C:\Users\corti\Desktop\prjExercicios\obj\Debug\net5.0\prjExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corti\Desktop\prjExercicios\obj\Debug\net5.0\prjExercicios.AssemblyInfoInputs.cache
+C:\Users\corti\Desktop\prjExercicios\obj\Debug\net5.0\prjExercicios.AssemblyInfo.cs
+C:\Users\corti\Desktop\prjExercicios\obj\Debug\net5.0\prjExercicios.csproj.CoreCompileInputs.cache
+C:\Users\corti\Desktop\prjExercicios\obj\Debug\net5.0\prjExercicios.dll
+C:\Users\corti\Desktop\prjExercicios\obj\Debug\net5.0\ref\prjExercicios.dll
+C:\Users\corti\Desktop\prjExercicios\obj\Debug\net5.0\prjExercicios.pdb
+C:\Users\corti\Desktop\prjExercicios\obj\Debug\net5.0\prjExercicios.genruntimeconfig.cache
